@@ -1,1 +1,2 @@
-# Python-scripts
+# Python-script	
+Python exercises
