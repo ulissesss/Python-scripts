@@ -1,4 +1,4 @@
-#Check what vm is running 
+#Check if i'm running a vm in parallel 
 
 import subprocess
 cmd = "prlctl list -a | grep running"
