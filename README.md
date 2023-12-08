@@ -1,2 +1,2 @@
-# Python-script	
-Python exercises
+# Python-scripts	
+Python exercises for the class Devops
